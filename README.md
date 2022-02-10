@@ -1,3 +1,2 @@
 # Assembly-Proje
-Mikroişlemci Sistemleri Dersi İçin Yapılan Proje
-Keil uVision5'te ve ARM Assembly ile yazılmıştır.
+This project was done for BLG212E Class in Istanbul Technical University - Aim of the project is to design a Pong Game - Project was done using Keil uVision5 and ARM Assembly.
